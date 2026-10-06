@@ -1,8 +1,0 @@
-{
-  "name": "warehouse",
-  "version": "1.0.0",
-  "description": "Warehouse Assistant for the company: low stock, slow movers, duplicate SKU candidates and next-month replenishment recommendations from stock exports, pick lists and usage history (CSV/XLSX). Local only; no WMS or ERP access.",
-  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
-  "license": "UNLICENSED",
-  "keywords": ["copilot", "warehouse", "stock", "inventory", "replenishment", "local-only"]
-}

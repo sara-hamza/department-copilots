@@ -1,0 +1,66 @@
+[submodule "plugins/copilot-common"]
+	path = plugins/copilot-common
+	url = https://github.com/sara-hamza/copilot-common.git
+[submodule "plugins/sticky-notes"]
+	path = plugins/sticky-notes
+	url = https://github.com/sara-hamza/copilot-sticky-notes.git
+[submodule "plugins/noc"]
+	path = plugins/noc
+	url = https://github.com/sara-hamza/copilot-noc.git
+[submodule "plugins/network-engineering"]
+	path = plugins/network-engineering
+	url = https://github.com/sara-hamza/copilot-network-engineering.git
+[submodule "plugins/network-design"]
+	path = plugins/network-design
+	url = https://github.com/sara-hamza/copilot-network-design.git
+[submodule "plugins/field-ops"]
+	path = plugins/field-ops
+	url = https://github.com/sara-hamza/copilot-field-ops.git
+[submodule "plugins/construction"]
+	path = plugins/construction
+	url = https://github.com/sara-hamza/copilot-construction.git
+[submodule "plugins/project-delivery"]
+	path = plugins/project-delivery
+	url = https://github.com/sara-hamza/copilot-project-delivery.git
+[submodule "plugins/customer-ops"]
+	path = plugins/customer-ops
+	url = https://github.com/sara-hamza/copilot-customer-ops.git
+[submodule "plugins/rsp"]
+	path = plugins/rsp
+	url = https://github.com/sara-hamza/copilot-rsp.git
+[submodule "plugins/business-development"]
+	path = plugins/business-development
+	url = https://github.com/sara-hamza/copilot-business-development.git
+[submodule "plugins/developer-relations"]
+	path = plugins/developer-relations
+	url = https://github.com/sara-hamza/copilot-developer-relations.git
+[submodule "plugins/finance"]
+	path = plugins/finance
+	url = https://github.com/sara-hamza/copilot-finance.git
+[submodule "plugins/procurement"]
+	path = plugins/procurement
+	url = https://github.com/sara-hamza/copilot-procurement.git
+[submodule "plugins/warehouse"]
+	path = plugins/warehouse
+	url = https://github.com/sara-hamza/copilot-warehouse.git
+[submodule "plugins/people"]
+	path = plugins/people
+	url = https://github.com/sara-hamza/copilot-people.git
+[submodule "plugins/marketing"]
+	path = plugins/marketing
+	url = https://github.com/sara-hamza/copilot-marketing.git
+[submodule "plugins/compliance"]
+	path = plugins/compliance
+	url = https://github.com/sara-hamza/copilot-compliance.git
+[submodule "plugins/security"]
+	path = plugins/security
+	url = https://github.com/sara-hamza/copilot-security.git
+[submodule "plugins/analytics"]
+	path = plugins/analytics
+	url = https://github.com/sara-hamza/copilot-analytics.git
+[submodule "plugins/executive"]
+	path = plugins/executive
+	url = https://github.com/sara-hamza/copilot-executive.git
+[submodule "plugins/training"]
+	path = plugins/training
+	url = https://github.com/sara-hamza/copilot-training.git

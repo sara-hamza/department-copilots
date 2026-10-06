@@ -110,13 +110,15 @@ def main():
     rows = []
     for p in mk["plugins"]:
         src = p["source"]
+        if isinstance(src, dict):
+            src = os.path.join("plugins", p["name"])  # github source; local checkout is the submodule
         path = os.path.normpath(os.path.join(ROOT, src))
         if not os.path.isdir(path):
             errors.append(f"{p['name']}: source dir {src} missing"); continue
         r = check_plugin(p["name"], path)
         if r:
             rows.append((p["name"], *r))
-    listed = {os.path.normpath(os.path.join(ROOT, p["source"])) for p in mk["plugins"]}
+    listed = {os.path.normpath(os.path.join(ROOT, p["source"] if isinstance(p["source"], str) else os.path.join("plugins", p["name"]))) for p in mk["plugins"]}
     pd = os.path.join(ROOT, "plugins")
     for d in sorted(os.listdir(pd)):
         full = os.path.join(pd, d)

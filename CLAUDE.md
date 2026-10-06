@@ -1,6 +1,6 @@
 # Department Copilots - maintainer notes
 
-This repo is a Claude Code plugin marketplace. Root manifest: `.claude-plugin/marketplace.json`. Plugins live in `plugins/<name>/`.
+This repo is the Claude Code plugin marketplace index. Root manifest: `.claude-plugin/marketplace.json`. Each plugin is its own GitHub repo (`sara-hamza/copilot-<name>`) checked out as a git submodule at `plugins/<name>/`. Edit inside the submodule, commit and push there first, then commit the submodule pointer here.
 
 ## Conventions every plugin must follow
 
@@ -15,4 +15,4 @@ This repo is a Claude Code plugin marketplace. Root manifest: `.claude-plugin/ma
 
 ## Adding a department plugin
 
-Copy `plugins/noc/` as the template, rename, rewrite SKILL.md + references + commands, add an entry to `marketplace.json`, run `python3 scripts/validate.py`.
+Copy `plugins/noc/` as the template into a new repo `copilot-<name>`, rewrite SKILL.md + references + commands, push it, add it as a submodule at `plugins/<name>/`, add a `github` source entry to `marketplace.json`, run `python3 scripts/validate.py`.

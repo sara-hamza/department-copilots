@@ -1,8 +1,0 @@
-{
-  "name": "business-development",
-  "version": "1.0.0",
-  "description": "BD Copilot for the company business development: account briefs, meeting preparation, structured proposal drafts and follow-up emails with action plans from pasted developer notes, proposal documents and meeting notes. Never invents pricing. Local only; no CRM access.",
-  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
-  "license": "UNLICENSED",
-  "keywords": ["copilot", "business-development", "developers", "proposals", "meeting-prep", "local-only"]
-}

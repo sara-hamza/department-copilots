@@ -1,8 +1,0 @@
-{
-  "name": "network-engineering",
-  "version": "1.0.0",
-  "description": "Network Engineer copilot for the company: config review, change validation, layered troubleshooting, plain explanations and offline lab topologies from pasted configs, logs, routing tables and diagrams. Local only; no device or NMS access.",
-  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
-  "license": "UNLICENSED",
-  "keywords": ["copilot", "network-engineering", "bgp", "isis", "ospf", "mpls", "gpon", "change-review", "config-review", "local-only"]
-}
