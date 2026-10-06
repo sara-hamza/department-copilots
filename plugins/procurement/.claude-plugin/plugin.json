@@ -1,0 +1,8 @@
+{
+  "name": "procurement",
+  "version": "1.0.0",
+  "description": "Procurement Assistant for the company: side-by-side quote comparison, BOM vs BOM or BOM vs quote mismatches, structured supplier assessments and reorder plans from quotes, item lists, supplier documents and stock figures. Local only; no ERP or supplier portal access.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "procurement", "quotes", "suppliers", "bom", "reorder", "local-only"]
+}

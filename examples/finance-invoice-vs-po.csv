@@ -1,0 +1,10 @@
+source,line,description,qty,unit_price,total
+PO,1,FDH cabinet 288F,4,9500,38000
+PO,2,1:32 splitter module,24,850,20400
+PO,3,Feeder cable 144F per km,12,3800,45600
+PO,4,Installation labour days,20,600,12000
+INVOICE,1,FDH cabinet 288F,4,9500,38000
+INVOICE,2,1:32 splitter module,28,850,23800
+INVOICE,3,Feeder cable 144F per km,12,4100,49200
+INVOICE,4,Installation labour days,24,600,14400
+INVOICE,5,Site establishment,1,3000,3000

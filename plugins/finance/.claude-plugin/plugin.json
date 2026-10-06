@@ -1,0 +1,8 @@
+{
+  "name": "finance",
+  "version": "1.0.0",
+  "description": "Finance Reviewer for the company: invoice vs PO checks, budget vs actual variance analysis, two-list reconciliations and monthly commentary drafts from exported CSV/XLSX/PDF files. Flags, never approves. Local only; no finance system access.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "finance", "invoice", "variance", "reconciliation", "accounts-payable", "local-only"]
+}

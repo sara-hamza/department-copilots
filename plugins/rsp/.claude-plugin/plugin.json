@@ -1,0 +1,8 @@
+{
+  "name": "rsp",
+  "version": "1.0.0",
+  "description": "RSP Assistant for the company wholesale support: works out what evidence we hold and what to ask the RSP, drafts technically accurate neutral responses, and checks that our evidence supports what we are about to say. Understands the NNI/UNI demarcation. Local only; no NMS or RSP portal access.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "rsp", "wholesale", "nni", "uni", "demarcation", "fault-evidence", "local-only"]
+}

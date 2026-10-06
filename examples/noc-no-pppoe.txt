@@ -1,0 +1,9 @@
+Ticket 48812 - customer reports no internet since 09:40 today. RSP: ExampleNet.
+ONT online
+UNI1 up, 1000/full
+RX -17.9 dBm (1490)
+OLT RX from ONT -21.3 dBm
+MAC learned on S-VLAN 2001 / C-VLAN 10
+No PPPoE session
+Adjacent ONTs on same splitter: 6 online, none with alarms
+No alarms on PON 3/1/4 in last 24h

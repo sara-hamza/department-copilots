@@ -1,0 +1,8 @@
+{
+  "name": "executive",
+  "version": "1.0.0",
+  "description": "Executive Briefing for the company leaders and their chiefs of staff: turns multiple reports, notes and spreadsheets into a one-page brief, a decisions-required register and a consolidated risk view, with every point traced to its source document. Local only; no system access.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "executive", "briefing", "decisions", "risks", "leadership", "local-only"]
+}

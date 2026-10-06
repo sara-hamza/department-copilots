@@ -1,0 +1,8 @@
+{
+  "name": "customer-ops",
+  "version": "1.0.0",
+  "description": "Customer Case Assistant for the company customer operations: case summaries, missing-information checklists, customer-friendly reply drafts and plain-English translation of technical text from pasted complaints, call notes and correspondence. Wholesale-aware wording. Local only; no CRM access.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "customer-ops", "complaints", "customer-reply", "plain-english", "local-only"]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "project-delivery",
+  "version": "1.0.0",
+  "description": "Project Copilot for the company delivery teams: attention triage, RAID normalisation, one-page status reports, action extraction and meeting-note structuring from pasted minutes, schedule exports and RAID logs. Local only; no project system access.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "project-delivery", "raid", "status-report", "meeting-notes", "local-only"]
+}

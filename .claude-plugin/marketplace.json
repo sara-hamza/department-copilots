@@ -1,0 +1,33 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "department-copilots",
+  "description": "Local-only department copilots for staff. Employees paste or drop their own inputs; Claude analyses them locally and returns drafts, checklists, reviews and decision aids. No CRM, NMS, email or system integrations.",
+  "owner": {
+    "name": "Hamza Abid",
+    "email": "abidhamza8812@gmail.com"
+  },
+  "plugins": [
+    { "name": "copilot-common", "description": "Shared rules and readers used by every department copilot: privacy rules, document/spreadsheet/screenshot readers, writing helper.", "category": "productivity", "source": "./plugins/copilot-common" },
+    { "name": "sticky-notes", "description": "Personal local memory: capture notes, actions and context bundles as plain Markdown files on your own machine.", "category": "productivity", "source": "./plugins/sticky-notes" },
+    { "name": "noc", "description": "NOC Copilot: fault-domain analysis, next checks and ticket notes from pasted CLI output, alarms and screenshots.", "category": "operations", "source": "./plugins/noc" },
+    { "name": "network-engineering", "description": "Network Engineer: config review, change validation, routing analysis and troubleshooting from pasted configs and logs.", "category": "operations", "source": "./plugins/network-engineering" },
+    { "name": "network-design", "description": "Design Reviewer: finds inconsistencies, missing elements and BOM mismatches in design drawings, notes and BOMs.", "category": "operations", "source": "./plugins/network-design" },
+    { "name": "field-ops", "description": "Field Assistant: interprets optical and test results, suggests the next test and writes site close-out notes.", "category": "operations", "source": "./plugins/field-ops" },
+    { "name": "construction", "description": "Construction Copilot: defect prioritisation, blocker analysis, contractor instructions and progress summaries.", "category": "operations", "source": "./plugins/construction" },
+    { "name": "project-delivery", "description": "Project Copilot: finds blockers, dependencies, risks, actions and decisions in meeting notes, schedules and RAID logs.", "category": "productivity", "source": "./plugins/project-delivery" },
+    { "name": "customer-ops", "description": "Customer Case Assistant: summarises cases, finds missing information and drafts professional customer responses.", "category": "productivity", "source": "./plugins/customer-ops" },
+    { "name": "rsp", "description": "RSP Assistant: works out what to ask the RSP and drafts technically accurate wholesale responses.", "category": "operations", "source": "./plugins/rsp" },
+    { "name": "business-development", "description": "BD Copilot: account briefs, meeting prep, opportunity analysis, proposal writing and follow-up plans.", "category": "productivity", "source": "./plugins/business-development" },
+    { "name": "developer-relations", "description": "Developer Assistant: requirements summaries, open items, stakeholder questions and handover prep for property developments.", "category": "productivity", "source": "./plugins/developer-relations" },
+    { "name": "finance", "description": "Finance Reviewer: variance analysis, invoice vs PO checks, reconciliations and commentary drafts from exported files.", "category": "productivity", "source": "./plugins/finance" },
+    { "name": "procurement", "description": "Procurement Assistant: quote comparison, BOM comparison, supplier assessment and reorder planning.", "category": "productivity", "source": "./plugins/procurement" },
+    { "name": "warehouse", "description": "Warehouse Assistant: stock analysis, shortages, slow movers, duplicates and replenishment recommendations from stock exports.", "category": "productivity", "source": "./plugins/warehouse" },
+    { "name": "people", "description": "People Assistant: interview questions, JD improvement, structured interview summaries, onboarding plans and policy explanations.", "category": "productivity", "source": "./plugins/people" },
+    { "name": "marketing", "description": "Marketing Copilot: copy improvement, audience variants, headlines, proofing and FAQ generation.", "category": "productivity", "source": "./plugins/marketing" },
+    { "name": "compliance", "description": "Compliance Reviewer: obligations, risks, dates, ambiguities and questions for legal from policies, contracts and procedures.", "category": "productivity", "source": "./plugins/compliance" },
+    { "name": "security", "description": "Security Analyst: triage, investigation checklists and remediation guidance from pasted logs, alerts and config excerpts.", "category": "security", "source": "./plugins/security" },
+    { "name": "analytics", "description": "Data Analyst: profiles CSV/XLSX exports, finds anomalies, duplicates, outliers and trends and explains them plainly.", "category": "productivity", "source": "./plugins/analytics" },
+    { "name": "executive", "description": "Executive Briefing: converts reports, notes and spreadsheets into decisions, risks, priorities and executive briefs.", "category": "productivity", "source": "./plugins/executive" },
+    { "name": "training", "description": "Learning Coach: turns SOPs and manuals into explanations, quizzes, fault scenarios and personalised training.", "category": "productivity", "source": "./plugins/training" }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "analytics",
+  "version": "1.0.0",
+  "description": "Data Analyst for the company: profiles CSV/XLSX exports, reports data quality, finds outliers, concentrations, week-over-week changes and correlations, and writes plain-English findings and period-over-period trends with the method stated. Local only; no database or BI access.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "analytics", "data-quality", "anomalies", "trends", "csv", "local-only"]
+}

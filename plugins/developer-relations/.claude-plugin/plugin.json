@@ -1,0 +1,8 @@
+{
+  "name": "developer-relations",
+  "version": "1.0.0",
+  "description": "Developer Assistant for the company developer relations: project requirement summaries, tracked open items, grouped question lists for the developer and internal handover packs to delivery, from pasted development plans, project notes, developer requests and design constraints. Local only; no project system access.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "developer-relations", "estates", "requirements", "handover", "local-only"]
+}

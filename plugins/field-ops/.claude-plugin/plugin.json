@@ -1,0 +1,8 @@
+{
+  "name": "field-ops",
+  "version": "1.0.0",
+  "description": "Field Assistant for the company technicians: interprets ONT status, optical power readings and OTDR events, suggests the next cheapest test, checks site photos for compliance concerns and turns rough notes into a site visit summary. Local only; no NMS or test-set access.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "field-ops", "fibre", "gpon", "otdr", "optical-power", "site-visit", "local-only"]
+}

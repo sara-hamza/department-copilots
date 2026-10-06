@@ -1,0 +1,8 @@
+{
+  "name": "sticky-notes",
+  "version": "1.0.0",
+  "description": "Personal local memory for staff: capture notes, actions and context bundles as plain Markdown files under ~/.copilots/sticky-notes. Fully local, no sync, no integrations.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "notes", "memory", "actions", "local-only"]
+}

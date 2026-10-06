@@ -1,0 +1,8 @@
+{
+  "name": "network-design",
+  "version": "1.0.0",
+  "description": "Design Reviewer for the company: finds completeness gaps, BOM mismatches, missing labels and fibre counts, splitter capacity problems and handover-pack gaps in FTTP/GPON estate designs from exported drawings, design notes and BOM spreadsheets. Local only.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "network-design", "fttp", "gpon", "design-review", "bom", "handover", "local-only"]
+}

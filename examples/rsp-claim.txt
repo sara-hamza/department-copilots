@@ -1,0 +1,3 @@
+From ExampleNet wholesale desk:
+"Customer at service ID OPT-00123456 has a PPP session established but reports no internet. We believe this is an access network fault. Please investigate and advise."
+What we hold: ONT online, RX -18.2 dBm, UNI up, MAC learned on correct VLANs, no PON alarms, no changes in last 7 days.

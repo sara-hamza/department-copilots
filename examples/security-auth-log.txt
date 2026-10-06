@@ -1,0 +1,7 @@
+2026-10-06 02:14:03 sshd[2231]: Failed password for admin from 203.0.113.45 port 51022 ssh2
+2026-10-06 02:14:05 sshd[2231]: Failed password for admin from 203.0.113.45 port 51022 ssh2
+2026-10-06 02:14:09 sshd[2233]: Failed password for root from 203.0.113.45 port 51030 ssh2
+(... 212 similar lines over 6 minutes ...)
+2026-10-06 02:20:41 sshd[2410]: Accepted publickey for svc-backup from 10.20.1.15 port 44102 ssh2
+2026-10-06 02:21:02 sudo: svc-backup : TTY=pts/0 ; PWD=/home/svc-backup ; USER=root ; COMMAND=/usr/bin/tar czf /tmp/etc.tgz /etc
+2026-10-06 02:21:30 sshd[2410]: Disconnected from 10.20.1.15

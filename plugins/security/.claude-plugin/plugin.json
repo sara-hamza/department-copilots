@@ -1,0 +1,8 @@
+{
+  "name": "security",
+  "version": "1.0.0",
+  "description": "Security Analyst for the company: defensive triage, investigation checklists and remediation guidance from pasted firewall logs, authentication logs, alerts and config fragments. Never concludes compromise without evidence; never produces offensive tooling. Local only.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "security", "cybersecurity", "triage", "incident-response", "defensive", "local-only"]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "copilot-common",
+  "version": "1.0.0",
+  "description": "Shared foundation for every department copilot: privacy rules, document/spreadsheet/screenshot readers and a writing helper. Install this before any department plugin.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "privacy", "readers", "writing", "local-only"]
+}

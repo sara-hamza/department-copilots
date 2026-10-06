@@ -1,0 +1,8 @@
+{
+  "name": "people",
+  "version": "1.0.0",
+  "description": "People Assistant for the company: improves job descriptions, builds structured interview question sets, turns interview notes into competency summaries, drafts 30/60/90-day onboarding plans and explains policies in plain English. Assists HR and hiring managers; never ranks candidates or recommends a hire. Local only.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "people", "hr", "recruitment", "interviews", "onboarding", "policy", "local-only"]
+}

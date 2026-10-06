@@ -1,0 +1,7 @@
+Site: 14 Example Court, Elm Estate stage 2
+ONT: Offline (power LED on, PON LED off, LOS red)
+1490nm RX at ONT: -30.1 dBm
+OLT port: operational, 31 of 32 ONTs online
+Adjacent ONTs (same splitter FDH-07 / SPL-3): online, RX -18 to -21 dBm
+Install record RX (2024-11): -19.4 dBm
+Customer says gardener was trenching near the pit last week

@@ -1,0 +1,8 @@
+{
+  "name": "compliance",
+  "version": "1.0.0",
+  "description": "Compliance Reviewer for the company: extracts obligations, risks, dates, responsibilities, ambiguities and questions for legal from pasted or dropped contracts, policies and procedures, with clause and page references. Assists compliance and legal staff; not legal advice. Local only.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "compliance", "legal", "contracts", "obligations", "policy-review", "local-only"]
+}

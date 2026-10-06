@@ -1,0 +1,8 @@
+{
+  "name": "marketing",
+  "version": "1.0.0",
+  "description": "Marketing Copilot for the company marketing and communications: copy polishing with a changes list, audience variants with identical facts, headline options by angle, proofing tables and FAQ generation from pasted drafts, campaign briefs and event notes. Local only; no CMS or social access.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "marketing", "copywriting", "proofing", "faq", "local-only"]
+}

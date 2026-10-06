@@ -1,0 +1,8 @@
+{
+  "name": "construction",
+  "version": "1.0.0",
+  "description": "Construction Copilot for the company: prioritises defect lists, finds blockers and dependencies in site reports and contractor updates, drafts numbered contractor instructions and writes weekly progress summaries. Local only; no project or site systems.",
+  "author": { "name": "Hamza Abid", "email": "abidhamza8812@gmail.com" },
+  "license": "UNLICENSED",
+  "keywords": ["copilot", "construction", "fibre", "civil", "defects", "contractor", "progress", "local-only"]
+}
