@@ -24,7 +24,7 @@ claude plugin install copilot-common@department-copilots
 claude plugin install noc@department-copilots
 ```
 
-Install `copilot-common` first. Every department plugin relies on its privacy rules and readers. The repos are private; `claude` uses your git credentials to fetch them.
+Install `copilot-common` first. Every department plugin relies on its privacy rules and readers. All repos are public.
 
 ## The plugins
 
